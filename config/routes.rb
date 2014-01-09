@@ -1,4 +1,4 @@
-Pin::Application.routes.draw do
+Post::Application.routes.draw do
   resources :posts
 
   devise_for :users

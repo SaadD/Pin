@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Pin::Application.config.secret_key_base = '06c1406337b2880425cf1c02fa70cc5525cb13da2407ccbc51273ffb0f0d4dbc8b1351573fa9c09b70b3e399282932d76b5f6bacd8f88c17e0c5d6b22059ee67'
+Post::Application.config.secret_key_base = '06c1406337b2880425cf1c02fa70cc5525cb13da2407ccbc51273ffb0f0d4dbc8b1351573fa9c09b70b3e399282932d76b5f6bacd8f88c17e0c5d6b22059ee67'
